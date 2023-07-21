@@ -125,6 +125,7 @@ body {
 .toDoList {
   text-align: left;
   font-family: 'star',cursive;
+  padding: 0 3rem;
 }
 .toDoList li {
   position: relative;
